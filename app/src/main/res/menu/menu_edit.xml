@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Menu_event_settings_id"
+        android:enabled="true"
+        android:title="@string/settings"
+        android:visible="true" />
+    <item
+        android:id="@+id/Menu_delete_id"
+        android:enabled="true"
+        android:title="@string/delete"
+        android:visible="true" />
+</menu>

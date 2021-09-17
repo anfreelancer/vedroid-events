@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Vedroid Events</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_about">О программе</string>
+    <string name="event_name">Введите название…</string>
+    <string name="event_info">Введите комментарий…</string>
+    <string name="create">Создать</string>
+    <string name="change">Изменить</string>
+    <string name="delete">Удалить</string>
+    <string name="close">Закрыть</string>
+    <string name="settings">Настройки</string>
+    <string name="everyYear">Каждый Год</string>
+    <string name="Search">Поиск</string>
+    <string name="Save">Сохранить</string>
+    <string name="DateRepresentation">Формат даты:</string>
+    <string name="DateDelimeter">Делимитер даты:</string>
+    <string name="Yes">Да</string>
+    <string name="No">Нет</string>
+    <string name="Space">[SPACE]</string>
+    <string name="SuppressZeroes">Подавлять нули:</string>
+    <string name="IconSize">Размер иконки:</string>
+    <string name="Appointment">Оповещение:</string>
+    <string name="years">лет</string>
+    <string name="exportdatabase">Экспорт базы данных</string>
+    <string name="importdatabase">Импорт базы данных</string>
+    <string name="year">год</string>
+    <string name="appointment_time">Дата оповещения</string>
+    <string name="use_add_appointment">Дополнительное оповещение</string>
+    <string name="some_pic">Картинко</string>
+    <string-array name="events_types">
+        <item>День рождения</item>
+        <item>Ежегодное событие</item>
+        <item>Событие</item>
+    </string-array>
+    <string name="wrong_date">Укажите правильную дату…</string>
+    <string name="name_empty">Укадите название события…</string>
+    <string name="event_date_before_error">Невозможно создать простое событие на дату, которая уже прошла…</string>
+    <string name="event_appointment_before_error">Невозможно создать оповещение на дату, которая уже прошла</string>
+    <string name="alright">Лады…</string>
+    <string name="License"> Vedroid Events - программа для того, чтобы
+        не забыть о днях рождения, или других каких-то событиях\n\n
+
+        Спасибо сайту https://friendlystock.com за бесплатные клипарт
+        картинки, использованные в этой программе\n\n
+
+        И отдельное спасибо Лене, моей прекрасной жене!\n\n
+
+        Copyright © 2020 Alexander Shuklin jasuramme@gmail.com\n\n
+
+        This program is free software; you can redistribute it and/or
+        modify it under the terms of the GNU General Public License
+        as published by the Free Software Foundation; either version 2
+        of the License, or (at your option) any later version.\n\n
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.\n\n
+
+        You should have received a copy of the GNU General Public License
+        along with this program; if not, you may find one here:
+        http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+        or you may search the http://www.gnu.org website for the version 2 license,
+        or you may write to the Free Software Foundation, Inc.,
+        51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA</string>
+
+
+</resources>

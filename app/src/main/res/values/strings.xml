@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Vedroid Events Smart</string>
+    <string name="buy" translatable="false">BUY</string>
+    <string name="premium" translatable="false">Premium</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="event_name">Type an event name here…</string>
+    <string name="event_info">Type an event info here…</string>
+    <string name="create">Create</string>
+    <string name="change">Change</string>
+    <string name="delete">Delete</string>
+    <string name="close">Close</string>
+    <string name="settings">Settings</string>
+    <string name="everyYear">Every Year</string>
+    <string name="Search">Search</string>
+    <string name="Save">Save</string>
+    <string name="DateRepresentation">Date representation:</string>
+    <string name="DateDelimeter">Date delimiter:</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="Space">[SPACE]</string>
+    <string name="SuppressZeroes">Suppress Zeroes:</string>
+    <string name="IconSize">Icon size:</string>
+    <string name="Appointment">Appointment:</string>
+    <string name="years">years</string>
+    <string name="exportdatabase">Export Database</string>
+    <string name="importdatabase">Import Database</string>
+    <string name="year">year</string>
+    <string name="appointment_time">Appointment Time</string>
+    <string name="use_add_appointment">Use Additional Appointment</string>
+    <string name="some_pic">some pic</string>
+    <string-array name="events_types">
+        <item>Birthday</item>
+        <item>Yearly Event</item>
+        <item>Event</item>
+    </string-array>
+    <string name="wrong_date">Please specify valid date…</string>
+    <string name="name_empty">Name field cannot be empty…</string>
+    <string name="event_date_before_error">You cannot create simple event with today date or before…</string>
+    <string name="event_appointment_before_error">You cannot create appointment before current time</string>
+    <string name="alright">Alright…</string>
+    <string name="License"> Vedroid Events is Birthdays and Events remainder app\n\n
+        Thanks for https://friendlystock.com website. Some of their free clipart images were used.\n\n
+
+        And special thanks to Lena, my beautiful wife!\n\n
+
+        Copyright © 2020 Alexander Shuklin jasuramme@gmail.com\n\n
+
+        This program is free software; you can redistribute it and/or
+        modify it under the terms of the GNU General Public License
+        as published by the Free Software Foundation; either version 2
+        of the License, or (at your option) any later version.\n\n
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.\n\n
+
+        You should have received a copy of the GNU General Public License
+        along with this program; if not, you may find one here:
+        http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+        or you may search the http://www.gnu.org website for the version 2 license,
+        or you may write to the Free Software Foundation, Inc.,
+        51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA</string>
+
+</resources>

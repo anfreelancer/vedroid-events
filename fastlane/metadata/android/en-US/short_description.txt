@@ -1,0 +1,1 @@
+Vedroid Events - simple birthdays and events remainder app without any stupid useless "smart" features and options. No need of the google services

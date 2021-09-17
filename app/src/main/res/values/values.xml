@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item type="id" name="Menu_delete_id" />
+    <item type="id" name="Menu_event_settings_id" />
+    <item type="id" name="Export_database_id" />
+    <item type="id" name="Import_database_id" />
+
+</resources>
